@@ -1,0 +1,3 @@
+/Users/hanbaokun/workspace/github/opencv4android/opencv/.cxx/Debug/13k6whl5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/hanbaokun/workspace/github/opencv4android/opencv/.cxx/Debug/13k6whl5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/hanbaokun/workspace/github/opencv4android/opencv/.cxx/Debug/13k6whl5/arm64-v8a/CMakeFiles/opencv.dir

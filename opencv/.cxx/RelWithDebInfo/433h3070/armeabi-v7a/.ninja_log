@@ -1,0 +1,7 @@
+# ninja log v5
+0	705	1672911671	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	dee9fdfbc029bd31
+706	778	1672911671	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/armeabi-v7a/libopencv.so	6c1b55e445506286
+1	945	1672913267	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	dee9fdfbc029bd31
+945	1031	1672913267	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/armeabi-v7a/libopencv.so	6c1b55e445506286
+2	687	1672914391	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	dee9fdfbc029bd31
+688	768	1672914391	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/armeabi-v7a/libopencv.so	6c1b55e445506286
