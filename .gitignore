@@ -38,6 +38,7 @@ proguard/
 
 # Android Studio
 /*/build/
+opencv/*/.cxx/
 /*/local.properties
 /*/out
 /*/*/build

@@ -1,7 +1,0 @@
-# ninja log v5
-0	917	1672911670	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	5f5da0db117c7ac0
-917	989	1672911670	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/arm64-v8a/libopencv.so	182867b460e9d7
-2	1453	1672913266	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	5f5da0db117c7ac0
-1454	1685	1672913266	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/arm64-v8a/libopencv.so	182867b460e9d7
-1	1631	1672914390	CMakeFiles/opencv.dir/src/main/cpp/opencv.cpp.o	5f5da0db117c7ac0
-1631	1811	1672914390	../../../../build/intermediates/cxx/RelWithDebInfo/433h3070/obj/arm64-v8a/libopencv.so	182867b460e9d7

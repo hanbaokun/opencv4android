@@ -72,7 +72,7 @@ task generateSourcesJar(type: Jar) {
 //    sign publishing.publications
 //}
 
-def versionName = "0.0.1"
+def versionName = "4.7.0"
 
 afterEvaluate {
     publishing {
